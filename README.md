@@ -1,4 +1,4 @@
-# wheelchair-flutter-app
+# Graduation Project 
 ![Screenshot (100)](https://user-images.githubusercontent.com/58705759/209854559-6b7b02b9-25fa-401c-adf6-32144660806d.png)
 
 Wireless & Mobile Computing Project[wheelchair-flutter-app]
@@ -9,8 +9,6 @@ Team members:
 3.	Haidy Hendy Danial Tawadros
 4.	Fatma Younes
 5.	Rehab Rabea Saeed
-6.	Hafsa Desoukey
-
 
 Supervised By: 
 
